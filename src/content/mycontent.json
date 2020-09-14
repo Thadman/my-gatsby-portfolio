@@ -7,7 +7,7 @@
   ],
 
   "AboutContent": [
-    "I’m a recent graduate of Coder Academy, Melbourne, looking at finding my place in the tech industry, had a great time learning and working with other students. Experience in Ruby and JS, with Rails and React frameworks, e2e testing, GitHub and Git, HTML5, CSS3, and Bootstrap, and Sass. Recently have spent time working with Kalysys, integrating social media platforms with their software.",
+    "I’m a recent graduate of Coder Academy, Melbourne, looking at finding my place in the tech industry, had a great time learning and working with other students. Experience in Ruby and JS, with Rails and React frameworks, e2e testing, GitHub, HTML5, CSS3, and Bootstrap, and Sass. Recently have spent time working with Kalysys, integrating social media platforms with their software.",
     "I am passionate about coding and have enjoyed the challenges that come with it everyday",
     "I love keeping fit, eating healthy, and now... coding."
   ],
@@ -24,7 +24,7 @@
   "Projects": [
     {
       "name": "POJOmon",
-      "link": "https://pojomon.netlify.app/login"
+      "link": "https://pojomon.netlify.app"
     },
     {
       "name": "Wine App",
