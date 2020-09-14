@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Aditya Ketkar | Personal Webpage',
+    title: 'Thad Hoskin | Developer',
     author: 'Aditya Ketkar',
     description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
   },
