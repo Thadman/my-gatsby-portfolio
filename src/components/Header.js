@@ -18,7 +18,7 @@ const Header = props => (
     <div className="content backdrop-blur">
       <div className="inner backdrop-blur">
         <h1>{JSONData.Name}</h1>
-        <p>
+        <div>
           {JSONData.Description.map(item => {
             return (
               <div>
@@ -27,7 +27,7 @@ const Header = props => (
               </div>
             )
           })}
-        </p>
+        </div>
       </div>
     </div>
     <nav className="backdrop-blur">
