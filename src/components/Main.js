@@ -104,7 +104,6 @@ class Main extends React.Component {
           <br />
           <div style={{ display: 'flex', justifyContent: 'space-around' }}>
             <a href={JSONData.CV}>CV </a>
-            <a href={JSONData.Resume}>Resume</a>
           </div>
           {/* </p> */}
           {/* not visible in gatsby build */}
