@@ -20,11 +20,15 @@
       "link": "https://kalysys.com/"
     }
   ],
-  "ProjectsStartLine": "Some of the projects i worked on during my time at Coder can be found here:",
+  "ProjectsStartLine": "Some of the projects i worked on during my time at Coder, and after can be found here:",
   "Projects": [
     {
       "name": "POJOmon",
       "link": "https://pojomon.netlify.app"
+    },
+    {
+      "name": "BayView Design",
+      "link": "https://www.bayviewdesign.co.nz/"
     },
     {
       "name": "Wine App",
